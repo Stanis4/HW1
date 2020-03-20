@@ -1,11 +1,7 @@
-# Compiled class file
-*.class
+/out/
+/target/
+/.idea/
 
-target/
-lib/
-bin/
-.idea/
-out
-*.log
-*.class
 *.iml
+*.class
+/src/cats/Cat.java
