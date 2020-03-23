@@ -8,7 +8,7 @@ public class HomeCat extends Cat implements Playable {
     }
 
     public void layOnSofa(){
-        System.out.println("I'm tired. Tome to lay on sofa...");
+        System.out.println("I'm tired. Time to lay on sofa...");
         master.increaseMood();
     }
 
